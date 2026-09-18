@@ -13,6 +13,7 @@ This repository contains solutions to the assignments, course slides, and other 
 - [Exercises](#exercises)
 - [Notes](#notes)
 - [Source](#source)
+- [Projects](#projects)
 - [Maintainer](#Maintainer)
 
 ## Assignments
@@ -34,6 +35,13 @@ The "Notes" folder contains the notes of the course which were written by the st
 ## Source
 
 The "Source" folder contains any additional course materials used in the lectures or assignments.
+
+## Projects
+
+The two team projects for this course keep their own repositories so their commit history and issue history stay where they were written:
+
+- [SmartOutlet-IOT](https://github.com/Imanm02/SmartOutlet-IOT), a GSM controlled smart power outlet (team 20)
+- [CloudFogEdge-VehicularSystem](https://github.com/Imanm02/CloudFogEdge-VehicularSystem), task allocation across a three layer cloud, fog and edge architecture (team 17)
 
 ## Maintainer
 
